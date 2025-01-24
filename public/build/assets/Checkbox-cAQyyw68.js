@@ -1,0 +1,1 @@
+import{j as e}from"./app-BJHpUxsG.js";function a({label:s,...r}){return e.jsx("div",{children:e.jsxs("div",{className:"flex flex-row items-center gap-2",children:[e.jsx("input",{...r,type:"checkbox",className:"rounded-md bg-white border-gray-200 checked:bg-teal-500"}),e.jsx("label",{className:"text-sm text-gray-700",children:s})]})})}export{a as C};
